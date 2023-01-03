@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = '/home/fmoradev'
 theme = "paper"
 author = "Francisco Mora"
-copyright = "Copyleft © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+copyright = "Copyleft 2023"
 paginate = 3
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
   twitter = 'fmoradev'
   github = 'fmoradev'
   #instagram = 'fmoradev'
-  #mastodon = 'fmoradev'
+  mastodon = 'fmoradev'
   rss = true
 
   avatar = 'https://www.franciscomora.cl/linux.png'
