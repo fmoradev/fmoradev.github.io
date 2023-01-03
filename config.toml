@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
   twitter = 'fmoradev'
   github = 'fmoradev'
   #instagram = 'fmoradev'
-  mastodon = 'fmoradev'
+  mastodon = 'https://fosstodon.org/@fmoradev'
   rss = true
 
   avatar = 'https://www.franciscomora.cl/logo.png'
