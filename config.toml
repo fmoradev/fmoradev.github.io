@@ -19,7 +19,7 @@ ignoreErrors = ["error-remote-getjson"]
   mastodon = 'fmoradev'
   rss = true
 
-  avatar = 'https://www.franciscomora.cl/linux.png'
+  avatar = 'https://www.franciscomora.cl/arch.png'
   name = 'Francisco Mora'
   bio = 'QA Automation & Developer'
 
