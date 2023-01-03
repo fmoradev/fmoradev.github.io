@@ -1,10 +1,11 @@
----
++++
 title = "About"
 description = "About"
 date = "2023-01-03"
 aliases = ["about"]
 author = "Francisco Mora"
----
++++
+
 Hello World 👋.
 
 I'm an IT professional with more than 15 years of experience. I've worked in industries such as Insurance, Public Sector, StarUps, Retail, Telecomunication and Banking. I have experience in 🌐 Web and API Test Automation working with both on-premise and cloud environments.
