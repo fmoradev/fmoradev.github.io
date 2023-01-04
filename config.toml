@@ -1,6 +1,6 @@
 baseURL = 'https://www.franciscomora.cl'
 languageCode = 'en-us'
-title = '/my/site'
+title = '/my/world'
 theme = "paper"
 author = "Francisco Mora"
 copyright = "Copyleft 2023"
