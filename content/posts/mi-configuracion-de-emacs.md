@@ -1,5 +1,5 @@
 ---
-title: "Mi Configuracion De Emacs"
+title: "Mi Configuración De Emacs en GNU/Linux"
 date: 2023-01-04T18:00:15-03:00
 tags: ["emacs"]
 draft: false
