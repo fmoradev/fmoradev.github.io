@@ -245,9 +245,6 @@ El archivo **configemacs.el** es donde seteo la configuración de **emacs**. Est
 (global-set-key (kbd "C-c F") 'counsel-org-file)
 ```
 
-Y así es como se ve mi configuración.
-![Emacs Config](/images/emacs.PNG "Emacs config")
-
 ### config/configdev.el
 
 este archivo contiene mi configuración de **emacs** para desarrollo, principalmente **PHP**, **Python** y **Javascript**, **Markdown**, también uso **Magit** para trabajar con *git* sin salir del editor.
