@@ -44,13 +44,13 @@ En Eclipse para configurar el repositorio de software de TestNG, hacemos la ruta
 
 La imágen siguiente refleja la configuración del repositorio correctamente:
 
-![TestNG Available Software](/images/listadosoftware.png "TestNG Available Software")
+![TestNG Available Software](/listadosoftware.png "TestNG Available Software")
 
 ## Instalación por Eclipse Marketplace
 
 El Eclipse [Marketplace](https://marketplace.eclipse.org/) es el centro de aplicaciones de Eclipse y es la forma más sencilla de encontrar plugins, themes y extensiones las cuales nos harán la vida más fácil cuando desarrollamos en este IDE. Es por ello que el plugin de *TestNG* puede ser encontrado aquí también. Para ello hacemos la ruta ```Help->Eclipse Marketplace...``` y en el cuadro de diálogo que se desplega escribimos **TestNG** en la barra de búsqueda. Luego pulsar el botón ```Install``` en el plugins **TestNG for Eclipse**.
 
-![TestNG for Eclipse](/images/marketplace.png "TestNG for Eclipse")
+![TestNG for Eclipse](/marketplace.png "TestNG for Eclipse")
 
 Por último, pulsar el botón ```Install Now``` y aceptar la licencia con un reinicio del IDE posteriormente.
 
