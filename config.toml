@@ -16,12 +16,12 @@ ignoreErrors = ["error-remote-getjson"]
   twitter = 'fmoradev'
   github = 'fmoradev'
   #instagram = 'fmoradev'
-  #mastodon = 'https://fosstodon.org/@fmoradev'
+  mastodon = 'https://chilemasto.casa/@fmoradev'
   rss = true
 
   avatar = 'https://www.franciscomora.cl/logo.png'
   name = 'Francisco Mora'
-  bio = 'QA Automation & Developer'
+  bio = 'QA Automation Engineer'
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
